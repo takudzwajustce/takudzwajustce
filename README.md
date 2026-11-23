@@ -1,6 +1,6 @@
 # Hi, I'm Takudzwa 👋
 
-**Junior AI Engineer | Full Stack Developer** based in Harare, Zimbabwe 🇿🇼
+**Junior AI Engineer | Full Stack Developer** based in Harare, Zimbabwe
 
 I build practical AI and software tools for African businesses, with a focus on **English/Shona NLP**, backend APIs and WhatsApp-based products.
 
