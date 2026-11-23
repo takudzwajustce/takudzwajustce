@@ -33,7 +33,7 @@ Also: prompt engineering, XLM-R / Hugging Face, REST API design.
 | *Coming week 2* | Live Shona/English model demo | Hugging Face Spaces |
 | *Coming week 3* | Zimbabwe public-data API | Django REST |
 
-*(Replace `#` with the real repo links as each one is ready.)*
+
 
 ## 🏅 Certifications
 
